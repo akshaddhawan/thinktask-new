@@ -8,3 +8,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 4, 2025**: Configure MongoDB connection utility and log messages
 - **Jun 6, 2025**: Create User schema and model with bcrypt password hashing
 - **Jun 7, 2025**: Implement user registration controller and validations
+- **Jun 7, 2025**: Add user login controller and JWT token generation
