@@ -10,3 +10,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 7, 2025**: Implement user registration controller and validations
 - **Jun 7, 2025**: Add user login controller and JWT token generation
 - **Jun 11, 2025**: Create auth middleware to protect private API routes
+- **Jun 12, 2025**: Set up global error handling middleware for backend
