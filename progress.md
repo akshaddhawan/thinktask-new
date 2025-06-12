@@ -12,3 +12,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 11, 2025**: Create auth middleware to protect private API routes
 - **Jun 12, 2025**: Set up global error handling middleware for backend
 - **Jun 12, 2025**: Install frontend dependencies: React, Router, Axios
+- **Jun 12, 2025**: Configure Vite and folder structure for frontend app
