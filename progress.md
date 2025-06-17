@@ -13,3 +13,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 12, 2025**: Set up global error handling middleware for backend
 - **Jun 12, 2025**: Install frontend dependencies: React, Router, Axios
 - **Jun 12, 2025**: Configure Vite and folder structure for frontend app
+- **Jun 17, 2025**: Create basic Navbar and global Layout components
