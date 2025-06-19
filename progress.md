@@ -15,3 +15,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 12, 2025**: Configure Vite and folder structure for frontend app
 - **Jun 17, 2025**: Create basic Navbar and global Layout components
 - **Jun 17, 2025**: Implement AuthContext for global login state management
+- **Jun 19, 2025**: Create Login and Register page forms with standard styling
