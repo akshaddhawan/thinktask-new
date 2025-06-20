@@ -16,3 +16,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 17, 2025**: Create basic Navbar and global Layout components
 - **Jun 17, 2025**: Implement AuthContext for global login state management
 - **Jun 19, 2025**: Create Login and Register page forms with standard styling
+- **Jun 20, 2025**: Connect Login page to backend Authentication API
