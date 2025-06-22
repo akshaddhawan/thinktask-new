@@ -18,3 +18,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 19, 2025**: Create Login and Register page forms with standard styling
 - **Jun 20, 2025**: Connect Login page to backend Authentication API
 - **Jun 22, 2025**: Connect Register page to backend Authentication API
+- **Jun 22, 2025**: Add client-side route protection with RequireAuth utility
