@@ -21,3 +21,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 22, 2025**: Add client-side route protection with RequireAuth utility
 - **Jun 23, 2025**: Create Task schema and model linked to User ref
 - **Jun 24, 2025**: Implement Task creation API endpoint and database save
+- **Jun 24, 2025**: Implement GET tasks API endpoint for active logged-in user
