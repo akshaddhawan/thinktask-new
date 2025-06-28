@@ -25,3 +25,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 26, 2025**: Implement PUT task API endpoint to update task status/details
 - **Jun 27, 2025**: Implement DELETE task API endpoint with ownership check
 - **Jun 28, 2025**: Create Dashboard component to display tasks list
+- **Jun 28, 2025**: Design Task Card component with sleek styling and actions
