@@ -28,3 +28,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 28, 2025**: Design Task Card component with sleek styling and actions
 - **Jun 28, 2025**: Add state management for tasks list in React application
 - **Jun 28, 2025**: Implement Task addition form modal on frontend
+- **Jun 30, 2025**: Implement Task delete functionality on frontend with alerts
