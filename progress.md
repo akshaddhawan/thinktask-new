@@ -31,3 +31,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jun 30, 2025**: Implement Task delete functionality on frontend with alerts
 - **Jul 1, 2025**: Implement Task edit and update functionality on frontend
 - **Jul 2, 2025**: Add status filter (All, Pending, Completed) to Dashboard UI
+- **Jul 7, 2025**: Add search filter for task titles on frontend
