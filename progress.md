@@ -34,3 +34,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 7, 2025**: Add search filter for task titles on frontend
 - **Jul 8, 2025**: Implement backend pagination for tasks API query results
 - **Jul 9, 2025**: Implement frontend pagination control for tasks dashboard
+- **Jul 9, 2025**: Add request validation schema using Joi on backend routes
