@@ -38,3 +38,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 10, 2025**: Improve error logging and formatting on backend server
 - **Jul 10, 2025**: Add client-side form validation and custom error messages
 - **Jul 11, 2025**: Implement Toast notifications for task actions success/fail
+- **Jul 11, 2025**: Configure CORS options for production deployment domain
