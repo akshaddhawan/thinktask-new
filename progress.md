@@ -39,3 +39,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 10, 2025**: Add client-side form validation and custom error messages
 - **Jul 11, 2025**: Implement Toast notifications for task actions success/fail
 - **Jul 11, 2025**: Configure CORS options for production deployment domain
+- **Jul 12, 2025**: Refactor auth middleware to use HTTP-only cookies for JWT
