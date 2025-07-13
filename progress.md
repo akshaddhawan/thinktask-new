@@ -41,3 +41,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 11, 2025**: Configure CORS options for production deployment domain
 - **Jul 12, 2025**: Refactor auth middleware to use HTTP-only cookies for JWT
 - **Jul 12, 2025**: Update backend token verification for HTTP-only cookies
+- **Jul 13, 2025**: Update frontend Axios interceptors to support credentials
