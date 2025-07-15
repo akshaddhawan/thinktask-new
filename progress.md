@@ -44,3 +44,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 13, 2025**: Update frontend Axios interceptors to support credentials
 - **Jul 13, 2025**: Implement Logout functionality with server-side cookie clearing
 - **Jul 15, 2025**: Design custom 404 page for frontend router navigation
+- **Jul 15, 2025**: Add loader spinners for API requests and page transition
