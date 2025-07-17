@@ -46,3 +46,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 15, 2025**: Design custom 404 page for frontend router navigation
 - **Jul 15, 2025**: Add loader spinners for API requests and page transition
 - **Jul 15, 2025**: Implement category tags for tasks sorting
+- **Jul 17, 2025**: Filter tasks by category on Dashboard UI header
