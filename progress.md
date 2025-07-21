@@ -48,3 +48,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 15, 2025**: Implement category tags for tasks sorting
 - **Jul 17, 2025**: Filter tasks by category on Dashboard UI header
 - **Jul 18, 2025**: Add due date selection to Task model and creation form
+- **Jul 21, 2025**: Highlight overdue tasks in UI dashboard
