@@ -50,3 +50,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 18, 2025**: Add due date selection to Task model and creation form
 - **Jul 21, 2025**: Highlight overdue tasks in UI dashboard
 - **Jul 22, 2025**: Add search debouncing to optimize frontend API calls
+- **Jul 22, 2025**: Configure production build script and asset compression
