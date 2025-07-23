@@ -53,3 +53,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 22, 2025**: Configure production build script and asset compression
 - **Jul 23, 2025**: Optimize backend database queries with indexes on user tasks
 - **Jul 23, 2025**: Write basic unit tests for authentication controllers
+- **Jul 23, 2025**: Write integration tests for Task CRUD endpoints
