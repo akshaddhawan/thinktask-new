@@ -56,3 +56,4 @@ This file tracks the backdated history of features and fixes added to the projec
 - **Jul 23, 2025**: Write integration tests for Task CRUD endpoints
 - **Jul 24, 2025**: Setup environment configurations for dev and prod modes
 - **Jul 25, 2025**: Add documentation to README.md on API routes and setup
+- **Jul 25, 2025**: Prepare MERN application for initial deployment release
